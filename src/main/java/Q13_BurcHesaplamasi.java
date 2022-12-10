@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BurcHesaplamasi {
+public class Q13_BurcHesaplamasi {
 
     public static void main(String[] args) {
 
