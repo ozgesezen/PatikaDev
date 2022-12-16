@@ -16,7 +16,6 @@ public class Q29_TersUcgen {
             }
             System.out.println();
         }
-
     }
 }
 
