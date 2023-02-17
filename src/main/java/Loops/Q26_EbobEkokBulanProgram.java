@@ -37,15 +37,7 @@ public class Q26_EbobEkokBulanProgram {
         System.out.println();
         System.out.println(a+" ve "+b+"'nin ebob degeri: "+ebob);
 
-        System.out.print(a+" ve "+b+"'nin ekok degeri: ");
-        for (int i=1; i<a*b;i++){
-            if (i%a==0 && i%b==0){
-                System.out.println(i);
-                break;
-            }
-        }
-
-
+        System.out.print(a+" ve "+b+"'nin ekok degeri: " +(a*b)/ebob);
 
     }
 
